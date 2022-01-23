@@ -4,3 +4,4 @@ TXTtoPDF/[li]*/*
 TXTtoPDF/*.txt
 TXTtoPDF/*.pr?
 git_update.log
+.gitignore
