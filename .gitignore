@@ -1,7 +1,0 @@
-LogFileArchive/lib/*
-LogFileArchive/modules.7z
-TXTtoPDF/[li]*/*
-TXTtoPDF/*.txt
-TXTtoPDF/*.pr?
-git_update.log
-.gitignore
