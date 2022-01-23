@@ -42,7 +42,7 @@ begin {
     [int]$DaysToMove = 4
     #mail integrācija
     $DefaultName = "Administrator"
-    $ReportTo = @('Viesturs.Skila@expobank.eu', 'Andrejs.Stankevics@expobank.eu')
+    $ReportTo = @('Viesturs.Skila@expobank.eu')
     $SmtpServer = 'mail.ltb.lan'
     
     <#-------------------------------------
