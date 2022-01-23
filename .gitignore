@@ -1,0 +1,14 @@
+ExpoRemoteJobs/[lir]*/*
+ExpoRemoteJobs/compis.txt
+LogFileArchive/lib/*
+LogFileArchive/modules.7z
+Lessons
+SironAML/*.bat
+SironKYC/old_stuff/*
+SironKYC/*.template
+SironECD/*.bat
+git_update.log
+TXTtoPDF/[li]*/*
+TXTtoPDF/*.txt
+TXTtoPDF/*.pr?
+HelperScripts/[_]*
